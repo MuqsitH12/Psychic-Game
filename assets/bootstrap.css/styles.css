@@ -1,0 +1,21 @@
+html,body{
+	font-size: 18px;
+	line-height: 34px;
+	font-family: sans-serif;
+	color: #ffffff;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+p{
+	background-color: #150cb6;
+}
+
+li.list-group-item{
+	background-color: #3338a1;
+}
+
+.game{
+	float: right;
+	margin-left: 20px;
+}
